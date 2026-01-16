@@ -37,7 +37,7 @@
 
 ---
 
-<a name="turkis"></a>
+<a name="turkish"></a>
 ## TR Türkçe
 
 **IPChanger**, halka açık IP adresinizi Tor ağı üzerinden periyodik olarak değiştiren, yüksek güvenlikli bir Python otomasyon aracıdır. Sıradan scriptlerin aksine, tüm giden trafiği güvenli Tor tüneline zorlayarak veri sızıntısını sıfıra indiren profesyonel bir **Kill Switch (Durdurma Anahtarı)** mekanizmasına sahiptir.
