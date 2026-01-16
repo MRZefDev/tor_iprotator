@@ -9,6 +9,8 @@
 
 **IPChanger** is a high-security Python automation tool designed to rotate your public IP address through the Tor network. Unlike basic scripts, it features a professional **Kill Switch** mechanism to ensure zero data leaks by forcing all outgoing traffic through the secure Tor tunnel.
 
+![IPChanger Banner](img/ipchanger.jpg)
+
 ### 🌟 Key Features
 - **Automated Rotation:** Automatically requests a new Tor identity every 60 seconds.
 - **Advanced Kill Switch:** Configures `iptables` to block any traffic that isn't routed through Tor.
