@@ -30,7 +30,7 @@
    sudo service tor restart
 4. **Install Dependencies:**
    ```bash
-   pip install requests stem
+   pip install -r requirements.txt
 5. **Run as Root:**
    ```bash
    sudo python3 ipchanger.py
@@ -63,7 +63,7 @@
    sudo service tor restart
 4. **Gerekli Kütüphaneleri Yükleyin:**
    ```bash
-   pip install requests stem
+   pip install -r requirements.txt
 5. **Root Yetkisiyle Çalıştırın:**
    ```bash
    sudo python3 ipchanger.py
