@@ -1,6 +1,6 @@
 # 🛡️ IPChanger from Wroserr (Tor IP Rotator)
 
-[English](#english) | [Türkçe](#türkçe)
+[English](#english) | [Türkçe](#turkish)
 
 ---
 
