@@ -1,4 +1,4 @@
-# 🛡️ IPChanger from Wroserr (Tor IP Rotator)
+# 🛡️ IPChanger from MrZefDev (Tor IP Rotator)
 
 [English](#english) | [Türkçe](#turkish)
 
@@ -72,7 +72,7 @@
    
 ⚖️ Legal Disclaimer / Yasal Uyarı
 ```bash
-EN: This tool is provided for educational and ethical security testing purposes only. The author (Wroserr) is not responsible for any misuse, illegal activities, or damages caused by this program. Use it at your own risk and in compliance with local laws.
-TR: Bu araç sadece eğitim ve etik güvenlik testi amaçları için sunulmuştur. Yapımcı (Wroserr), bu programın kötüye kullanımından, yasa dışı faaliyetlerden veya programın sebep olabileceği zararlardan sorumlu tutulamaz. Kullanım sorumluluğu tamamen kullanıcıya aittir ve yerel yasalarla uyumlu kullanılmalıdır.
+EN: This tool is provided for educational and ethical security testing purposes only. The author (MrZefDev) is not responsible for any misuse, illegal activities, or damages caused by this program. Use it at your own risk and in compliance with local laws.
+TR: Bu araç sadece eğitim ve etik güvenlik testi amaçları için sunulmuştur. Yapımcı (MrZefDev), bu programın kötüye kullanımından, yasa dışı faaliyetlerden veya programın sebep olabileceği zararlardan sorumlu tutulamaz. Kullanım sorumluluğu tamamen kullanıcıya aittir ve yerel yasalarla uyumlu kullanılmalıdır.
 
-Author / Yapımcı: Wroserr
+Author / Yapımcı: MrZefDev
